@@ -1,0 +1,15 @@
+{
+  "name": "AccountDateSpoofer",
+  "description": "Locally spoofs the Member Since creation date shown on your Discord profile in Revenge.",
+  "authors": [
+    {
+      "name": "k1ngsp1k3y",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "hash": "4dab85faf8cfed38831499554f91fbdc760460519279d0a07ff4dc6fcf44b179",
+  "vendetta": {
+    "icon": "ic_info_24px"
+  }
+}
